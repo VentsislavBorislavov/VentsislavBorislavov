@@ -1,6 +1,6 @@
 ### Ventsislav Borislavov
 
-### Average code enjoyer ![chad](![image](https://user-images.githubusercontent.com/64546764/141463464-5b5651c8-9d85-4f52-a8c6-79d0d678360c.png)
+### Average code enjoyer <img source="!https://user-images.githubusercontent.com/64546764/141463588-c5b393a9-7c5f-443f-8207-1c6138490de7.png" style="width: 25px; height: 25px;"/>
 
 <!--
 **VentsislavBorislavov/VentsislavBorislavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
